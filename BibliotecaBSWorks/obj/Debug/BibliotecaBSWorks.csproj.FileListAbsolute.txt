@@ -1,0 +1,5 @@
+C:\Users\marcello.basilva\source\repos\BSWorksGerenciamentoDeComandas\BibliotecaBSWorks\bin\Debug\BibliotecaBSWorks.dll
+C:\Users\marcello.basilva\source\repos\BSWorksGerenciamentoDeComandas\BibliotecaBSWorks\bin\Debug\BibliotecaBSWorks.pdb
+C:\Users\marcello.basilva\source\repos\BSWorksGerenciamentoDeComandas\BibliotecaBSWorks\obj\Debug\BibliotecaBSWorks.csproj.CoreCompileInputs.cache
+C:\Users\marcello.basilva\source\repos\BSWorksGerenciamentoDeComandas\BibliotecaBSWorks\obj\Debug\BibliotecaBSWorks.dll
+C:\Users\marcello.basilva\source\repos\BSWorksGerenciamentoDeComandas\BibliotecaBSWorks\obj\Debug\BibliotecaBSWorks.pdb
